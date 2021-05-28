@@ -1,6 +1,6 @@
 {
-  "name": "static-web-site",
-  "private": "true",
+  "name": "@oycen/static-web-site",
+  "version": "1.0.0",
   "bin": {
     "sws": "./bin/cli.js"
   },
